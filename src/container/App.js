@@ -2,6 +2,7 @@ import react from "react";
 import "./App.css";
 import Cockpit from "../components/Cockpit/Cockpit";
 import Persons from "../components/Persons/Persons";
+
 class App extends react.Component {
     constructor(props) {
         super(props);
